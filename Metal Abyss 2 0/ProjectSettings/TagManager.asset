@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Block
+  - Wall
+  - Bomb
+  - RoomPoint
+  - Rooms
+  - RedB
+  - YellowB
+  - GreenB
+  - BlueB
+  - ExitRoom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - turret
+  - gun
+  - Player
+  - EnemyBull
+  - PlayerBull
+  - Box
+  - Post
+  - Miniboss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: gun
+    uniqueID: 3329171225
+    locked: 0
+  - name: turret
+    uniqueID: 840782337
+    locked: 0
